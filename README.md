@@ -42,4 +42,5 @@ We will be happy to help.
 Happy Coding!
 
 # Section B: Project
-https://github.com/Vernon-Lee/Machine-Learning-
+
+https://github.com/Vernon-Lee/Capstone-Project1-level3
